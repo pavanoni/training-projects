@@ -1,0 +1,32 @@
+.registration {
+    width: 600px;
+  
+    border: 1px solid black;
+  
+    border-radius: 10px;
+  
+    margin-top: 50px;
+  
+    margin-left: 200px;
+}
+.registration h3 {
+    text-align: center;
+}
+.submit-button {
+  background-color: blue;
+  color: white;
+  padding: 6px;
+  border-color: black;
+  border-radius: 10px;
+  width: 80px;
+}
+.submit-button:hover {
+    background-color: lightblue;
+    color:black
+}
+.button .btn-success {
+    --bs-btn-bg: #198754;
+}
+.registration input{
+    background-color: rgb(205, 198, 198);
+}

@@ -1,0 +1,159 @@
+{
+  "registration": [
+    {
+      "id": 1,
+      "FirstName": "Pavan",
+      "LastName": "Oni",
+      "Company": "synergy",
+      "Email": "p@gmail.com",
+      "PhoneNumber": "7013803594",
+      "Password": "1234567",
+      "State": "Telangana",
+      "District": "Warangal",
+      "Pincode": "506001"
+    },
+    {
+      "id": 2,
+      "FirstName": "Goutham",
+      "LastName": "joggam",
+      "Company": "synergy",
+      "Email": "g@gmail.com",
+      "PhoneNumber": "9063164140",
+      "Password": "1234567",
+      "State": "Telangana",
+      "District": "Warangal",
+      "Pincode": "506001"
+    },
+    {
+      "id": 3,
+      "FirstName": "Sowmith",
+      "LastName": "Lokula",
+      "Company": "cognizant",
+      "Email": "sowmith@gmail.com",
+      "PhoneNumber": "9709698687",
+      "Password": "rufhjfj",
+      "State": "Telangana",
+      "District": "Warangal",
+      "Pincode": "506002",
+      "date": "2000-10-19",
+      "description": ""
+    },
+    {
+      "id": 4,
+      "FirstName": "komal",
+      "LastName": "majoju",
+      "Company": "synergy",
+      "Email": "k@gamil.com",
+      "PhoneNumber": "9786543287",
+      "Password": "poiuytr",
+      "State": "Telangana",
+      "District": "Warangal",
+      "Pincode": "506002",
+      "date": "2000-02-05",
+      "description": ""
+    },
+    {
+      "id": 5,
+      "FirstName": "shiva",
+      "LastName": "pulipaka",
+      "Company": "prefex",
+      "Email": "s@gmail.com",
+      "PhoneNumber": "8968958746",
+      "Password": "012345",
+      "State": "Telangana",
+      "District": "Karimnagar",
+      "Pincode": "567091",
+      "date": "2000-08-31",
+      "description": ""
+    },
+    {
+      "id": 6,
+      "FirstName": "anjali",
+      "LastName": "k",
+      "Company": "synergy",
+      "Email": "a@gmail.com",
+      "PhoneNumber": "9067969858",
+      "Password": "qwerty",
+      "State": "Telangana",
+      "District": "Hyderabad",
+      "Pincode": "678409",
+      "radio": "on",
+      "date": "",
+      "description": ""
+    },
+    {
+      "id": 7,
+      "FirstName": "anjali",
+      "LastName": "k",
+      "Company": "synergy",
+      "Email": "a@gmail.com",
+      "PhoneNumber": "9067969858",
+      "Password": "qwerty",
+      "State": "Telangana",
+      "District": "Hyderabad",
+      "Pincode": "678409",
+      "radio": "Female",
+      "date": "",
+      "description": ""
+    },
+    {
+      "id": 8,
+      "FirstName": "ravi",
+      "LastName": "teja",
+      "Company": "synergy",
+      "Email": "r@gmail.com",
+      "PhoneNumber": "9869584776",
+      "Password": "ravi",
+      "State": "Telangana",
+      "District": "Warangal",
+      "Pincode": "506001",
+      "radio": "Male",
+      "date": "2000-01-02",
+      "description": ""
+    }
+  ],
+  "property-type": [
+    {
+      "id": 1,
+      "propertyName": "Banglow",
+      "propertyDescription": "flat Num 009",
+      "propertyFacility": "All Facilities are available",
+      "isActive": false
+    },
+    {
+      "id": 2,
+      "propertyName": "Apartment",
+      "propertyDescription": "Apartment",
+      "propertyFacility": "Wifi",
+      "isActive": true
+    },
+    {
+      "id": 3,
+      "propertyName": "Gated community",
+      "propertyDescription": "Gated community",
+      "propertyFacility": "Gated community",
+      "isActive": false
+    },
+    {
+      "id": 4,
+      "propertyName": "Villa",
+      "propertyDescription": "Villa",
+      "propertyFacility": "Villa",
+      "isActive": true
+    },
+    {
+      "id": 5,
+      "propertyName": "Grated community",
+      "propertyDescription": "Grated community",
+      "propertyFacility": "Grated community",
+      "isActive": false
+    },
+    {
+      "id": 6,
+      "propertyName": "Duplex House",
+      "propertyDescription": "3 floors",
+      "propertyFacility": "swimming full",
+      "isActive": false
+    }
+  ]
+}

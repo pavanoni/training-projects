@@ -1,0 +1,26 @@
+.bg-color {
+  background-color: bisque;
+}
+.header {
+    background-color: aqua;
+    color:burlywood;
+}
+.font {
+    font-size: 30px;
+    font-family: Apple;
+    font-weight: 200;
+}
+.headingstyles {
+    font-size: 40px;
+    font-family: Luminari;
+}
+.sno {
+  font-size: 20px;
+}
+.font-stles {
+  font-size: 22px;
+  font-family:monospace;
+}
+.hovered{
+  cursor: pointer;
+}

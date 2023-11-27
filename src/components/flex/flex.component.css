@@ -1,0 +1,22 @@
+.image-flex {
+    display: flex;
+    flex-grow: 1;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.flex-item {
+    margin:10px;
+    padding: 10px;
+}
+
+@media screen and(min-width:570px){
+    .flex-item img{
+        width:95vw;
+    }
+}
+
+@media screen and(max-width:900px){
+    .flex-item img{
+        width:45vw;
+    }
+}

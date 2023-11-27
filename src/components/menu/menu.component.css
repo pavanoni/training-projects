@@ -1,0 +1,112 @@
+.menu {
+    list-style-type: none;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    position: relative;
+
+}
+
+.menu-list {
+    display: inline;
+    margin: 50px;
+    cursor: pointer;
+}
+/* .menu-list:hover .sub-menu{
+    display: block;
+}
+
+
+.sub-menu {
+    list-style-type: none;
+    position: absolute;
+    background-color: coral;
+    margin-top: 10px;
+    margin-left: 650px;
+    line-height: 40px;
+    display: none;
+    padding: 15px;
+} */
+
+
+
+.home{
+    list-style-type: none;
+    position: absolute;
+    background-color: coral;
+    margin-top: 10px;
+    margin-left: 40px;
+    line-height: 40px;
+    display: none;
+    padding: 15px;
+    width:150px;
+}
+.menu-list:hover .home{
+    display: block;
+}
+
+.aboutus {
+   list-style-type:none;
+   position: absolute;
+   background-color: blueviolet;
+   margin-top: 10px;
+   margin-left: 170px;
+   line-height:40px;
+   display: none;
+   padding: 15px; 
+   width:150px;
+}
+
+.menu-list:hover .aboutus {
+    display: block;
+}
+
+.grocery {
+    list-style-type:none;
+    position: absolute;
+    margin-top: 10px;
+    margin-left:350px;
+    line-height: 40px;
+    display: none;
+    padding: 15px;
+    background-color: crimson;
+    width:150px;
+}
+.menu-list:hover .grocery{
+    display: block;
+}
+
+.mobile{
+    list-style-type:none;
+    position: absolute;
+    margin-top:10px;
+    margin-left:500px;
+    line-height:40px;
+    display: none;
+    padding:15px;
+    background-color: darkgreen;
+    width:150px;
+}
+.menu-list:hover .mobile{
+    display:block;
+}
+
+.electronics{
+    list-style-type:none;
+    position: absolute;
+    padding: 15px;
+    margin-top:10px;
+    margin-left:650px;
+    background-color:goldenrod;
+    display:none;
+    width:150px;
+    line-height: 40px;
+}
+.menu-list:hover .electronics{
+    display:block;
+}
+.button-menu{
+    list-style-type:none;
+    width:150px;
+    
+}
